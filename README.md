@@ -15,17 +15,7 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 - ✅ Final output: GIF showing generator progress
 - ✅ Adjustable batch size and epochs
 
-## 📁 Project Structure
 
-```
-
-├── dcgan\_mnist\_final.py       # Main training script (your provided code)
-├── image\_at\_epoch\_\*.png       # Generated images saved after each epoch
-├── dcgan.gif                  # Animation of generated images over epochs
-├── training\_checkpoints/      # Saved generator/discriminator weights
-├── README.md                  # Project documentation
-
-````
 
 ## 📦 Requirements
 
